@@ -181,8 +181,8 @@ export default {
   // X-Small devices (portrait phones, less than 576px)
   @media (max-width: 575.98px) {
     .circle > .img-content > p {
-      font-size:11px;
-      max-width:50px;
+      max-width:57px;
+      margin-top:2px;
     }
   }
 </style>
